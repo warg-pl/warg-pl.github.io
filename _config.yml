@@ -3,12 +3,15 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
+
+lang: "pl"
+languages: ["pl"] 
+
+
 # --- Required options --- #
 
-lang: pl
-
 # Name of website
-#title: WARG
+title: WARG
 
 # Your name to show in the footer
 author: WARG Sp. z o.o.
@@ -17,7 +20,7 @@ author: WARG Sp. z o.o.
 
 navbar-links:
   O nas: "aboutme"
-  Resources:
+  Nasze serwisy:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
