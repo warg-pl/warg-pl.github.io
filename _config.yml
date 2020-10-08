@@ -5,8 +5,10 @@
 
 # --- Required options --- #
 
+lang: pl
+
 # Name of website
-title: WARG
+#title: WARG
 
 # Your name to show in the footer
 author: WARG Sp. z o.o.
@@ -224,6 +226,8 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  
+remove-ads: tak
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
