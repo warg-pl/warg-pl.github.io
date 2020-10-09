@@ -16,11 +16,9 @@ author: WARG Sp. z o.o.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  O nas: "aboutme"
-  Nasze serwisy:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-
+#  Publikacje: "publikacje"
+  Nasze serwisy: "serwisy"
+#    - ŚwiatPrzychodni.pl: "https://swiatprzychodni.pl"
 
 # --- Logo --- #
 
@@ -65,7 +63,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -73,7 +71,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -128,7 +126,7 @@ footer-link-col: "#404040"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-51192505-23"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
